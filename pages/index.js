@@ -15,6 +15,7 @@ export default function Home() {
         <h3>
           Welcome to My Portofolio
         </h3>
+        <p>Name: Yadi</p>
       </main>
     </div>
   )
